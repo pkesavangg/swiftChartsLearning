@@ -28,7 +28,7 @@ The project showcases different chart types using SwiftUI and Swift Charts:
 2. Open `SwiftUIChartLearning.xcodeproj` in Xcode
 3. Build and run the project
 
-## Screenshots
+## Screenshots/Screen recording
 
 Here are some screenshots of the different charts implemented in the app:
 
@@ -42,6 +42,7 @@ Here are some screenshots of the different charts implemented in the app:
 
 ### Health Monitoring - Multi Line Chart with Interactive Features
 <img width="635" alt="Screenshot 2025-04-01 at 3 33 11 PM" src="https://github.com/user-attachments/assets/56176b77-a5a3-406b-96d6-eefb435bcaa4" />
+https://github.com/user-attachments/assets/d6f2af8c-ac85-44e2-8eaf-5524263ec286
 
 
 ## License
