@@ -36,11 +36,11 @@ Here are some screenshots of the different charts implemented in the app:
 
 <img width="675" alt="Screenshot 2025-04-01 at 3 33 26 PM" src="https://github.com/user-attachments/assets/cfcdf3af-0944-4aa9-94e5-9ce3d6d800c2" />
 
-### Rainfall Graph
+### Rainfall Graph - Multi Line Chart
 <img width="403" alt="Screenshot 2025-04-01 at 3 33 00 PM" src="https://github.com/user-attachments/assets/4121378e-0f11-4868-ad87-1b3478a0ee23" />
 
 
-### Health Monitoring
+### Health Monitoring - Multi Line Chart with Interactive Features
 <img width="635" alt="Screenshot 2025-04-01 at 3 33 11 PM" src="https://github.com/user-attachments/assets/56176b77-a5a3-406b-96d6-eefb435bcaa4" />
 
 
